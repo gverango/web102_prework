@@ -125,7 +125,7 @@ function showAllGames() {
     deleteChildElements(gamesContainer);
 
     // Step 3: add all games from the JSON data to the DOM
-    addGamesToPage(GAMES_PAGE);
+    addGamesToPage(GAMES_JSON);
 }
 
 // select each button in the "Our Games" section
