@@ -34,7 +34,7 @@ GIF created with ...  giphy.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I used arrays to store and filter the game data because they were easy to work with for a small number of games. This worked well for features like search and sorting, but with a larger dataset, a different structure like a map could make searching faster.
 
 ## License
 
